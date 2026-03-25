@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# VSCode settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# Kubernetes config files (optional, if generated locally)
+k8s/*.yaml
+
+# IDE/editor swap files
+*.swp
+*.swo
